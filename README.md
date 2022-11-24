@@ -10,7 +10,7 @@ Add the following line to your `composer.json` file:
 ```javascript
 {
     "require": {
-        "shulyak/crossjoin-css": "1.0.*"
+        "perfectpanel/extlib-crossjoin-css": "1.0.*"
     }
 }
 ```
